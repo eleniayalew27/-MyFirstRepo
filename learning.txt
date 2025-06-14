@@ -1,3 +1,3 @@
-what i have learn from the cource
+What I have learned from this course
 
-In this cource i've learned how to use github to host repositories and Git to control the hosted repository(by going back to previous version,commiting change,...) 
+In this course i've learned how to use github to host repositories and Git to control the hosted repository(by going back to previous version,commiting change,...) 
